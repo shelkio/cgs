@@ -2,19 +2,19 @@ import time
 from img import baiduorcapi
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+
 driver = webdriver.Chrome('D:\DriverConifg\chromedriver')
 driver.maximize_window()
 driver.get('https://bjjj.zhongchebaolian.com/cgsadm/#/changeindicatormanage/indicatormanage')
 time.sleep(3)
 driver.find_element_by_id('username').send_keys('17600352198')
 driver.find_element_by_id('password').send_keys('a12345678')
-code_element = driver.find_element_by_id('imgCode') # 定位到验证码元素
+code_element = driver.find_element_by_id('imgCode')  # 定位到验证码元素
 code_element.screenshot('../img/easy_img/code.png')
-code = baiduorcapi.bdocrapi('../img/easy_img/code.png')[0]['words']
-print(code)
+code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
 if code == '[]':
     driver.find_element_by_id('imgCode').click()
-driver.find_element_by_id('account-img-code').send_keys(code)
+driver.find_element_by_id('account-img-code').send_keys(code[0]['words'])
 time.sleep(5)
 driver.find_element_by_id('login-btn').click()
 time.sleep(1)
@@ -22,17 +22,20 @@ try:
     err = driver.find_element_by_id('login-error-box').get_attribute('textContent')
     code11 = '请重新输入'
     for i in range(100):
-        print('第'+str(i)+'次验证码识别错误')
+        print('第' + str(i) + '次验证码识别错误')
         time.sleep(3)
         code_element = driver.find_element_by_id('imgCode')  # 定位到验证码元素
         code_element.screenshot('../img/easy_img/code.png')
-        code = baiduorcapi.bdocrapi('../img/easy_img/code.png')[0]['words']
-        if code == '[]':
+        code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
+        # 判断验证码是否为空
+        if not code:
             driver.find_element_by_id('imgCode').click()
-        print('验证码++++++'+str(code))
-        driver.find_element_by_id('account-img-code').send_keys(code)
+            code_element = driver.find_element_by_id('imgCode')  # 定位到验证码元素
+            code_element.screenshot('../img/easy_img/code.png')
+            code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
+        driver.find_element_by_id('account-img-code').send_keys(code[0]['words'])
         driver.find_element_by_id('login-btn').click()
-except NoSuchElementException as e :
+except NoSuchElementException as e:
     print(e)
     time.sleep(5)
     driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div/div[1]/div/ul/div[8]/li/div').click()
@@ -84,7 +87,4 @@ except NoSuchElementException as e :
             driver.find_element_by_xpath(
                 '//*[@id="app"]/div/div[2]/section/div/div[3]/div/div[3]/div/button[2]/span').click()
 
-    raise
-
-
-
+    raise NoSuchElementException('验证码正确登录成功')

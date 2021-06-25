@@ -37,10 +37,6 @@ def bdocrapi(img):
     #             print(response.json())
     #             return response
     code = response.json()['words_result']
-    a = code[0]['words']
-
-    print(a)
-    print(code)
     return code
     f.close()
     os.remove('../Upt/code.png')
