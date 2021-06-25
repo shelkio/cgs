@@ -1,10 +1,9 @@
 # encoding:utf-8
-import requests
+import time
+
 import base64
 import requests
 import os
-import sys
-import shutil
 def bdocrapitoken():
     clientid = 'w6TSCukAAg2eVKCR7LlWy86G'
     client_secret = '8lnwebUtd8WGMb4QqQYdY2k6xMgGQ2Yl'
@@ -27,7 +26,21 @@ def bdocrapi(img):
     headers = {'content-type': 'application/x-www-form-urlencoded'}
     response = requests.post(request_url, data=params, headers=headers)
     print('orcapi返回:'+str(response.json()))
-    code = response.json()['words_result'][0]['words']
+    # if response.json()['words_result_num']== 0:
+    #     for i in range(10):
+    #         time.sleep(10)
+    #         respon = requests.post(request_url, data=params, headers=headers)
+    #         print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+    #         print('第'+str(i)+'次orcapi识别为空' + str(respon.json()))
+    #         if response.json()['words_result_num']!= 0:
+    #             response = respon
+    #             print(response.json())
+    #             return response
+    code = response.json()['words_result']
+    a = code[0]['words']
+
+    print(a)
+    print(code)
     return code
     f.close()
     os.remove('../Upt/code.png')
