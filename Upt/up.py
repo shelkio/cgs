@@ -87,4 +87,3 @@ except NoSuchElementException as e:
             driver.find_element_by_xpath(
                 '//*[@id="app"]/div/div[2]/section/div/div[3]/div/div[3]/div/button[2]/span').click()
 
-    raise NoSuchElementException('验证码正确登录成功')
