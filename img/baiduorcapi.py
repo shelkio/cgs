@@ -4,6 +4,8 @@ import time
 import base64
 import requests
 import os
+
+
 def bdocrapitoken():
     clientid = 'w6TSCukAAg2eVKCR7LlWy86G'
     client_secret = '8lnwebUtd8WGMb4QqQYdY2k6xMgGQ2Yl'
@@ -12,9 +14,12 @@ def bdocrapitoken():
     token = response.json()['access_token']
     return token
 
+
 '''
 通用文字识别（高精度版）
 '''
+
+
 def bdocrapi(img):
     request_url = "https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic"
     # 二进制方式打开图片文件
@@ -25,7 +30,7 @@ def bdocrapi(img):
     request_url = request_url + "?access_token=" + access_token
     headers = {'content-type': 'application/x-www-form-urlencoded'}
     response = requests.post(request_url, data=params, headers=headers)
-    print('orcapi返回:'+str(response.json()))
+    print('orcapi返回:' + str(response.json()))
     # if response.json()['words_result_num']== 0:
     #     for i in range(10):
     #         time.sleep(10)
@@ -36,9 +41,13 @@ def bdocrapi(img):
     #             response = respon
     #             print(response.json())
     #             return response
+    if str.find(str(response.json()), 'error_code') == 0:
+        response = requests.post(request_url, data=params, headers=headers)
     code = response.json()['words_result']
     return code
     f.close()
     os.remove('../Upt/code.png')
+
+
 if __name__ == '__main__':
     bdocrapi('./easy_img/aaa.png')

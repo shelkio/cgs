@@ -1,7 +1,6 @@
 import time
 from img import baiduorcapi
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 
 driver = webdriver.Chrome('D:\DriverConifg\chromedriver')
 driver.maximize_window()
@@ -12,8 +11,11 @@ driver.find_element_by_id('password').send_keys('a12345678')
 code_element = driver.find_element_by_id('imgCode')  # 定位到验证码元素
 code_element.screenshot('../img/easy_img/code.png')
 code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
-if code == '[]':
+if not code:
     driver.find_element_by_id('imgCode').click()
+    code_element = driver.find_element_by_id('imgCode')  # 定位到验证码元素
+    code_element.screenshot('../img/easy_img/code.png')
+    code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
 driver.find_element_by_id('account-img-code').send_keys(code[0]['words'])
 time.sleep(5)
 driver.find_element_by_id('login-btn').click()
@@ -35,9 +37,11 @@ try:
             code = baiduorcapi.bdocrapi('../img/easy_img/code.png')
         driver.find_element_by_id('account-img-code').send_keys(code[0]['words'])
         driver.find_element_by_id('login-btn').click()
-except NoSuchElementException as e:
-    print(e)
+
+except Exception as a:
+    print(str(a) + '异常')
     time.sleep(5)
+    print('登录成功')
     driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div/div[1]/div/ul/div[8]/li/div').click()
     time.sleep(2)
     driver.find_element_by_xpath('//*[@id="app"]/div/div[1]/div/div[1]/div/ul/div[8]/li/ul/div/a/li').click()
@@ -86,4 +90,3 @@ except NoSuchElementException as e:
             time.sleep(2)
             driver.find_element_by_xpath(
                 '//*[@id="app"]/div/div[2]/section/div/div[3]/div/div[3]/div/button[2]/span').click()
-
