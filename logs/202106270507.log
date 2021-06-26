@@ -1,0 +1,34 @@
+2021-06-27 05:07:39,330 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 05:07:39,330 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 05:07:40,387 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 05:07:42,114 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 05:07:42,427 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 05:07:42,446 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 05:07:42,521 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 05:07:42,540 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 05:07:42,625 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 05:07:42,640 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-27 05:07:42,698 - BasePage - INFO - Had type ' 1234 ' in inputBox
+2021-06-27 05:07:42,714 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:07:42,719 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:07:42,768 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  login-error-box 
+2021-06-27 05:07:47,774 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:07:47,782 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:07:47,787 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:07:54,216 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 05:07:54,216 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 05:07:55,262 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 05:07:56,965 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 05:07:57,280 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 05:07:57,298 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 05:07:57,366 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 05:07:57,382 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 05:07:57,450 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 05:07:57,468 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-27 05:07:57,516 - BasePage - INFO - Had type ' 1234 ' in inputBox
+2021-06-27 05:07:57,535 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:07:57,539 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:07:57,582 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  login-error-box 
+2021-06-27 05:08:02,592 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:08:02,602 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:08:02,607 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.

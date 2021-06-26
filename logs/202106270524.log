@@ -1,0 +1,33 @@
+2021-06-27 05:24:38,230 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 05:24:38,230 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 05:24:39,316 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 05:24:41,060 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 05:24:41,394 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 05:24:41,411 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 05:24:41,474 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 05:24:41,489 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 05:24:41,552 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 05:24:41,566 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-27 05:24:41,616 - BasePage - INFO - Had type ' 1234 ' in inputBox
+2021-06-27 05:24:41,631 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:24:41,636 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:24:41,665 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:46,667 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:24:46,674 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:24:46,678 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:24:46,691 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:46,695 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:51,698 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:24:51,713 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:24:51,718 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:24:51,741 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:51,745 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:56,748 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:24:56,756 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:24:56,760 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:24:56,773 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:24:56,777 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:25:01,779 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:25:01,787 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:25:01,791 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:25:01,807 - BasePage - INFO - Current page title is µÇÂ¼

@@ -1,0 +1,25 @@
+2021-06-27 05:25:48,683 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 05:25:48,683 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 05:25:49,796 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 05:25:51,533 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 05:25:52,011 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 05:25:52,033 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 05:25:52,109 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 05:25:52,126 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 05:25:52,217 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 05:25:52,232 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-27 05:25:52,291 - BasePage - INFO - Had type ' 1234 ' in inputBox
+2021-06-27 05:25:52,309 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:25:52,314 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:25:52,345 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:25:57,347 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:25:57,355 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 05:25:57,360 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 05:25:57,376 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:25:57,380 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:25:57,384 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 05:26:02,387 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 05:26:02,397 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="login-btn"]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-27 05:26:02,542 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

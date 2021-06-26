@@ -1,0 +1,7 @@
+2021-06-27 04:17:47,244 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 04:17:47,245 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 04:17:48,300 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 04:17:50,082 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 04:17:50,391 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 04:17:50,403 - BasePage - INFO - 1
+2021-06-27 04:17:50,410 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 

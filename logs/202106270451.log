@@ -1,0 +1,13 @@
+2021-06-27 04:51:44,196 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 04:51:44,196 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 04:51:45,239 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 04:51:47,012 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 04:51:47,369 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 04:51:47,386 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 04:51:47,443 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 04:51:47,458 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 04:51:47,516 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 04:51:47,530 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-27 04:51:47,580 - BasePage - INFO - Had type ' 1234 ' in inputBox
+2021-06-27 04:51:47,595 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 04:51:47,599 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.

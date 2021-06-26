@@ -25,12 +25,12 @@ def bdocrapi(img):
     # 二进制方式打开图片文件
     f = open(img, 'rb')
     img = base64.b64encode(f.read())
+    f.close()
     params = {'image': img}
     access_token = bdocrapitoken()
     request_url = request_url + "?access_token=" + access_token
     headers = {'content-type': 'application/x-www-form-urlencoded'}
     response = requests.post(request_url, data=params, headers=headers)
-    print('orcapi返回:' + str(response.json()))
     # if response.json()['words_result_num']== 0:
     #     for i in range(10):
     #         time.sleep(10)
@@ -41,11 +41,12 @@ def bdocrapi(img):
     #             response = respon
     #             print(response.json())
     #             return response
-    if str.find(str(response.json()), 'error_code') == 0:
+    if not str.find(str(response.json()), 'error_code') == 0:
+        print('返回为空重新请求一遍')
         response = requests.post(request_url, data=params, headers=headers)
+    print(response.json())
     code = response.json()['words_result']
     return code
-    f.close()
     os.remove('../Upt/code.png')
 
 
