@@ -1,0 +1,56 @@
+2021-06-27 17:34:14,791 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 17:34:14,791 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 17:34:15,857 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 17:34:17,643 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 17:34:18,014 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 17:34:18,033 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 17:34:18,101 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 17:34:18,116 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 17:34:18,200 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 17:34:18,203 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:34:23,209 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:34:23,225 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:34:23,230 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:34:23,263 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:34:28,264 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:34:28,272 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:34:28,277 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:34:28,294 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:34:33,297 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:34:33,306 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="login-btn"]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-27 17:34:33,450 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-06-27 17:34:33,454 - BasePage - INFO - Current page title is Ê×Ò³ - ³µ¹ÜËù¹ÜÀíÏµÍ³
+2021-06-27 17:34:57,004 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 17:34:57,004 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 17:34:58,079 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 17:34:59,937 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 17:35:00,568 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 17:35:00,587 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 17:35:00,689 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 17:35:00,709 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 17:35:00,808 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 17:35:00,814 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:35:05,816 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:35:05,832 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:35:05,838 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:35:05,870 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:35:10,873 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:35:10,889 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:35:10,894 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:35:10,918 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:35:15,921 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:35:15,930 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:35:15,935 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:35:15,952 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:35:20,954 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:35:20,964 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:35:20,968 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:35:20,988 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:35:25,991 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:35:26,000 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="login-btn"]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-27 17:35:26,135 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-06-27 17:35:26,138 - BasePage - INFO - Current page title is Ê×Ò³ - ³µ¹ÜËù¹ÜÀíÏµÍ³

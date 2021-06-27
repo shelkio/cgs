@@ -1,0 +1,28 @@
+2021-06-27 17:31:40,275 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-27 17:31:40,275 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-27 17:31:41,306 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-27 17:31:43,084 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-27 17:31:43,363 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-27 17:31:43,381 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-27 17:31:43,445 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-27 17:31:43,461 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-27 17:31:43,533 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-27 17:31:43,535 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:31:48,537 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:31:48,554 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:31:48,559 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:31:48,588 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:31:53,591 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:31:53,606 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:31:53,610 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:31:53,630 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:31:58,633 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:31:58,642 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-27 17:31:58,648 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-27 17:31:58,663 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-27 17:32:03,665 - BasePage - INFO - Sleep for 5 seconds
+2021-06-27 17:32:03,674 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="login-btn"]"}
+  (Session info: chrome=91.0.4472.114)
+
+2021-06-27 17:32:03,791 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-06-27 17:32:03,795 - BasePage - INFO - Current page title is Ê×Ò³ - ³µ¹ÜËù¹ÜÀíÏµÍ³

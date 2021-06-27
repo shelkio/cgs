@@ -35,9 +35,9 @@ class LoginProcess(BasePage):
     def unm_pwd_login(self,unm,pwd, code):
         self.type(self.unm,unm)
         self.type(self.pwd,pwd)
-        self.type(self.code, self.getcode())
-        self.click(self.loginbutton)
-        i = 0
+        # self.type(self.code, self.getcode())
+        # self.click(self.loginbutton)
+        i = -1
         while self.get_page_title() == '登录':
             i = i+1
             try:

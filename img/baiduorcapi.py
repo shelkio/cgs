@@ -46,8 +46,9 @@ def bdocrapi(img):
         response = requests.post(request_url, data=params, headers=headers)
     print(response.json())
     code = response.json()['words_result']
-    return code
     os.remove('../Upt/code.png')
+    return code
+
 
 
 if __name__ == '__main__':
