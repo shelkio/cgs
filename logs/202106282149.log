@@ -1,0 +1,266 @@
+2021-06-28 21:49:06,166 - BrowserEngine - INFO - You had select Chrome browser.
+2021-06-28 21:49:06,166 - BrowserEngine - INFO - The test server url is: https://bjjj.zhongchebaolian.com/cgsadm
+2021-06-28 21:49:07,228 - BrowserEngine - INFO - Starting Chrome browser
+2021-06-28 21:49:09,378 - BrowserEngine - INFO - Open url: https://bjjj.zhongchebaolian.com/cgsadm 
+2021-06-28 21:49:10,092 - BrowserEngine - INFO - Maximize the current window. 
+2021-06-28 21:49:10,110 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:10,884 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  username 
+2021-06-28 21:49:10,931 - BasePage - INFO - Had type ' 17600352198 ' in inputBox
+2021-06-28 21:49:10,946 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  password 
+2021-06-28 21:49:11,035 - BasePage - INFO - Had type ' a12345678 ' in inputBox
+2021-06-28 21:49:11,040 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:11,050 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:11,385 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:11,434 - BasePage - INFO - Had type ' 4623 ' in inputBox
+2021-06-28 21:49:11,449 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:11,453 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:11,484 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:11,495 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:11,901 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:11,936 - BasePage - INFO - Had type ' 563 ' in inputBox
+2021-06-28 21:49:11,944 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:11,948 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:11,964 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:11,973 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:12,327 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:12,729 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:12,734 - BasePage - INFO - The element '  ' was clicked.
+2021-06-28 21:49:12,761 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:13,352 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:13,379 - BasePage - INFO - Had type ' 2213 ' in inputBox
+2021-06-28 21:49:13,388 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:13,392 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:13,409 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:13,418 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:13,808 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:13,844 - BasePage - INFO - Had type ' 3833 ' in inputBox
+2021-06-28 21:49:13,853 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:13,859 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:13,879 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:13,892 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:14,187 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:14,216 - BasePage - INFO - Had type ' 050 ' in inputBox
+2021-06-28 21:49:14,226 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:14,230 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:14,246 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:14,256 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:14,780 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:14,807 - BasePage - INFO - Had type ' 0054 ' in inputBox
+2021-06-28 21:49:14,815 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:14,819 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:14,835 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:14,845 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:15,133 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:15,164 - BasePage - INFO - Had type ' 076 ' in inputBox
+2021-06-28 21:49:15,172 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:15,176 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:15,191 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:15,200 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:15,442 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:15,454 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:15,738 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:15,766 - BasePage - INFO - Had type ' 2523 ' in inputBox
+2021-06-28 21:49:15,775 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:15,779 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:15,795 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:15,805 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:16,063 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:16,091 - BasePage - INFO - Had type ' 2523 ' in inputBox
+2021-06-28 21:49:16,100 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:16,105 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:16,120 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:16,130 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:16,377 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:16,388 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:16,763 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:16,792 - BasePage - INFO - Had type ' 2370 ' in inputBox
+2021-06-28 21:49:16,800 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:16,805 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:16,821 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:16,831 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:17,568 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:17,598 - BasePage - INFO - Had type ' 555 ' in inputBox
+2021-06-28 21:49:17,605 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:17,609 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:17,624 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:17,635 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:18,082 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:18,110 - BasePage - INFO - Had type ' 7569 ' in inputBox
+2021-06-28 21:49:18,118 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:18,123 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:18,137 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:18,147 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:18,482 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:18,511 - BasePage - INFO - Had type ' 29 ' in inputBox
+2021-06-28 21:49:18,522 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:18,527 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:18,543 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:18,555 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:19,433 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:19,460 - BasePage - INFO - Had type ' 429 ' in inputBox
+2021-06-28 21:49:19,469 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:19,473 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:19,488 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:19,496 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:20,522 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:20,550 - BasePage - INFO - Had type ' 879 ' in inputBox
+2021-06-28 21:49:20,558 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:20,562 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:20,576 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:20,585 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:20,984 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:21,012 - BasePage - INFO - Had type ' 7929 ' in inputBox
+2021-06-28 21:49:21,020 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:21,025 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:21,040 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:21,050 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:21,430 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:21,461 - BasePage - INFO - Had type ' 587 ' in inputBox
+2021-06-28 21:49:21,469 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:21,475 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:21,491 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:21,500 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:21,903 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:21,932 - BasePage - INFO - Had type ' 6328 ' in inputBox
+2021-06-28 21:49:21,941 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:21,945 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:21,960 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:21,970 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:22,582 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:22,893 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:22,898 - BasePage - INFO - The element '  ' was clicked.
+2021-06-28 21:49:22,918 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:23,159 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:23,169 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:23,452 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:23,463 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:23,815 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:23,845 - BasePage - INFO - Had type ' 003 ' in inputBox
+2021-06-28 21:49:23,852 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:23,857 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:23,872 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:23,881 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:24,384 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:24,413 - BasePage - INFO - Had type ' 2523 ' in inputBox
+2021-06-28 21:49:24,421 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:24,426 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:24,441 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:24,451 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:25,010 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:25,039 - BasePage - INFO - Had type ' 89 ' in inputBox
+2021-06-28 21:49:25,047 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:25,052 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:25,067 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:25,076 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:26,089 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:26,117 - BasePage - INFO - Had type ' 99 ' in inputBox
+2021-06-28 21:49:26,126 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:26,130 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:26,146 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:26,155 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:26,507 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:26,534 - BasePage - INFO - Had type ' 1405 ' in inputBox
+2021-06-28 21:49:26,543 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:26,547 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:26,563 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:26,573 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:27,193 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:27,223 - BasePage - INFO - Had type ' 40 ' in inputBox
+2021-06-28 21:49:27,232 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:27,236 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:27,253 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:27,264 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:27,685 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:27,714 - BasePage - INFO - Had type ' 136 ' in inputBox
+2021-06-28 21:49:27,722 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:27,726 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:27,740 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:27,749 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:28,036 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:28,067 - BasePage - INFO - Had type ' Z529 ' in inputBox
+2021-06-28 21:49:28,076 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:28,080 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:28,095 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:28,104 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:28,317 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:28,328 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:28,662 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:28,692 - BasePage - INFO - Had type ' 1203 ' in inputBox
+2021-06-28 21:49:28,701 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:28,706 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:28,720 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:28,730 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:29,182 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:29,211 - BasePage - INFO - Had type ' 56 ' in inputBox
+2021-06-28 21:49:29,219 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:29,224 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:29,239 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:29,249 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:29,531 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:29,559 - BasePage - INFO - Had type ' 56 ' in inputBox
+2021-06-28 21:49:29,567 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:29,572 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:29,587 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:29,597 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:30,056 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:30,085 - BasePage - INFO - Had type ' 0479 ' in inputBox
+2021-06-28 21:49:30,093 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:30,098 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:30,113 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:30,122 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:30,354 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:30,365 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:31,750 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:31,779 - BasePage - INFO - Had type ' 9085 ' in inputBox
+2021-06-28 21:49:31,786 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:31,790 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:31,806 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:31,815 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:32,491 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:32,518 - BasePage - INFO - Had type ' 340 ' in inputBox
+2021-06-28 21:49:32,527 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:32,531 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:32,546 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:32,556 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:32,935 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:32,964 - BasePage - INFO - Had type ' 340 ' in inputBox
+2021-06-28 21:49:32,973 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:32,977 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:32,992 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:33,002 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:33,422 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:33,456 - BasePage - INFO - Had type ' 6218 ' in inputBox
+2021-06-28 21:49:33,464 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:33,468 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:33,486 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:33,505 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:33,877 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:33,907 - BasePage - INFO - Had type ' 4834 ' in inputBox
+2021-06-28 21:49:33,916 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:33,920 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:33,934 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:33,943 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:34,362 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:34,391 - BasePage - INFO - Had type ' Q6.27 ' in inputBox
+2021-06-28 21:49:34,399 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:34,404 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:34,420 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:34,431 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:34,998 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:35,026 - BasePage - INFO - Had type ' 65 ' in inputBox
+2021-06-28 21:49:35,035 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:35,040 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:35,055 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:35,067 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:35,519 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:35,546 - BasePage - INFO - Had type ' 755 ' in inputBox
+2021-06-28 21:49:35,554 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:35,558 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:35,573 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:35,582 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
+2021-06-28 21:49:35,990 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  account-img-code 
+2021-06-28 21:49:36,019 - BasePage - INFO - Had type ' 937 ' in inputBox
+2021-06-28 21:49:36,027 - BasePage - INFO - Had find the element ' µÇÂ¼ ' seccessful by id via value:  login-btn 
+2021-06-28 21:49:36,031 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2021-06-28 21:49:36,045 - BasePage - INFO - Current page title is µÇÂ¼
+2021-06-28 21:49:36,054 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  imgCode 
