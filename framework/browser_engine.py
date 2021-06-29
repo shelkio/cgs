@@ -8,9 +8,9 @@ logger = Logger(logger="BrowserEngine").getlog()
 
 class BrowserEngine(object):
     dri = os.path.dirname(os.getcwd())
-   # dri = os.path.dirname(os.path.abspath('.'))
-  #chrome_driver_path = dir + '/tools/chromedriver.exe'
-  #ie_driver_path = dir + '/tools/IEDriverServer.exe'
+    # dri = os.path.dirname(os.path.abspath('.'))
+    # chrome_driver_path = dir + '/tools/chromedriver.exe'
+    # ie_driver_path = dir + '/tools/IEDriverServer.exe'
 
 
     def  __init__(self,driver):

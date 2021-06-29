@@ -26,6 +26,8 @@ class login(unittest.TestCase):
         login = LoginProcess(self.driver)
         code = login.getcode()
         login.unm_pwd_login(u'17600352198','a12345678',code)
-
+    def test_lll(self):
+        a = 1
+        print(a + '123')
 if __name__ == '__main__':
     unittest.main()

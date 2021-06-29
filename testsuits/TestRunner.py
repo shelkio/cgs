@@ -13,7 +13,7 @@ repoot_path = os.path.dirname(os.path.abspath('.')) + '/test_report/'
 now = time.strftime("%Y-%m-%d-%H_%M_%S",time.localtime(time.time()))
 #设置报告文件名称格式
 HtmlFile = repoot_path + now + "HTMLtemplate.html"
-fp = open(HtmlFile,"wb")
+fp = open(HtmlFile,"wb+")
 #构建suite2
 suite = unittest.TestLoader().discover("testsuits")
 
