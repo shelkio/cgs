@@ -267,7 +267,7 @@ class Template_mixin(object):
     	        $(this).addClass("btn-danger")
             }else if(text == "错误") {
                 $(this).addClass("btn-warning")
-            }else if(text == "通过") {
+            }else if(text == "通过"){
                 $(this).addClass("btn-success")
             }
         });
@@ -635,15 +635,14 @@ table       { font-size: 100%; }
     #
     # 汉化,加美化效果 --Findyou
     REPORT_TMPL = """
-<div style="width: 500px; clear: both;">
-<p id='show_detail_line'>
-<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ %(passrate)s }</a>
-<a class="btn btn-success" href='javascript:showCase(2)'>通过{ %(Pass)s }</a>
-<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ %(fail)s }</a>
-<a class="btn btn-warning" href='javascript:showCase(3)'>错误{ %(error)s }</a>
-<a class="btn btn-info" href='javascript:showCase(4)'>所有{ %(count)s }</a>
-</p>
+<div class="btn-group btn-group-sm">
+    <a class="btn btn-primary" onclick='javascript:showCase(0)'>概要{ %(passrate)s }</a>
+    <a class="btn btn-success" onclick='javascript:showCase(2)'>通过{ %(Pass)s }</a>
+    <a class="btn btn-danger" onclick='javascript:showCase(1)'>失败{ %(fail)s }</a>
+    <a class="btn btn-warning" onclick='javascript:showCase(3)'>错误{ %(error)s }</a>
+    <a class="btn btn-info" onclick='javascript:showCase(4)'>所有{ %(count)s }</a>
 </div>
+<p></p>
 <table id='result_table' class="table table-condensed table-bordered table-hover">
 <colgroup>
 <col align='left' style="width: 300px;"/>
