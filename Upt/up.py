@@ -2,7 +2,7 @@ import time
 from img import baiduorcapi
 from selenium import webdriver
 
-driver = webdriver.Chrome('D:\DriverConifg\chromedriver')
+driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get('https://bjjj.zhongchebaolian.com/cgsadm/#/changeindicatormanage/indicatormanage')
 time.sleep(3)

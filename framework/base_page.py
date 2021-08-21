@@ -145,9 +145,10 @@ class BasePage(object):
         el = self.find_element(selector)
         try:
             content = el.get_attribute('textContent')
+            logger.info("Had Content  \' %s \' in element" % content)
             return content
         except NameError as e:
-            logger.error("Failed to clear in input box with %s" % e)
+            logger.error("Failed to click the element with %s" % e)
         self.get_windows_img()
 
 
@@ -156,9 +157,8 @@ class BasePage(object):
         logger.info("Current page title is %s" % self.driver.title)
         return self.driver.title
 
-
-    @staticmethod
-    def sleep(seconds):
+    #等待时间
+    def sleep(self,seconds):
         time.sleep(seconds)
         logger.info("Sleep for %d seconds" % seconds)
 
